@@ -1,0 +1,57 @@
+{
+  "questions": [
+    {
+      "question": "What are the symptoms of the common cold?",
+      "answer": "Common cold symptoms include a runny or stuffy nose, sneezing, sore throat, cough, and mild body aches."
+    },
+    {
+      "question": "How can I prevent the flu?",
+      "answer": "The best way to prevent the flu is to get an annual flu vaccine, practice good hand hygiene, avoid close contact with sick individuals, and maintain a healthy lifestyle."
+    },
+    {
+      "question": "What should I do if I have a persistent cough?",
+      "answer": "If you have a persistent cough, it's important to see a doctor for evaluation as it could be a sign of an underlying condition such as asthma, bronchitis, or even lung cancer."
+    },
+    {
+      "question": "How can I manage stress and anxiety?",
+      "answer": "Managing stress and anxiety involves maintaining a healthy lifestyle, practicing relaxation techniques, seeking support from loved ones, and, if necessary, consulting a mental health professional."
+    },
+    {
+      "question": "What causes high blood pressure?",
+      "answer": "High blood pressure can be caused by various factors such as genetics, poor diet, lack of physical activity, stress, and certain medical conditions."
+    },
+    {
+      "question": "What are the signs of a heart attack?",
+      "answer": "Common signs of a heart attack include chest pain or discomfort, shortness of breath, lightheadedness, nausea, and pain or discomfort in the arms, back, neck, or jaw."
+    },
+    {
+      "question": "How can I lower my cholesterol levels?",
+      "answer": "To lower cholesterol levels, it's important to eat a healthy diet low in saturated and trans fats, engage in regular physical activity, maintain a healthy weight, and follow any prescribed medications."
+    },
+    {
+      "question": "What are the early signs of diabetes?",
+      "answer": "Early signs of diabetes may include frequent urination, excessive thirst, unexplained weight loss, fatigue, and blurred vision. It's important to see a doctor for proper diagnosis."
+    },
+    {
+      "question": "How can I prevent osteoporosis?",
+      "answer": "To prevent osteoporosis, it's important to consume a diet rich in calcium and vitamin D, engage in weight-bearing exercises, avoid smoking and excessive alcohol consumption, and consider medications if necessary."
+    },
+    {
+      "question": "What are the best ways to quit smoking?",
+      "answer": "Quitting smoking can be challenging, but it's possible. Effective strategies include seeking support from healthcare professionals, using nicotine replacement therapy, joining support groups, and adopting healthy coping mechanisms."
+    },
+    {
+      "question": "What are the symptoms of a urinary tract infection (UTI)?",
+      "answer": "Symptoms of a UTI may include a frequent urge to urinate, a burning sensation during urination, cloudy or strong-smelling urine, and pelvic pain. It's important to see a doctor for proper diagnosis and treatment."
+    },
+    {
+      "question": "How can I improve my sleep quality?",
+      "answer": "To improve sleep quality, establish a consistent sleep schedule, create a comfortable sleep environment, practice relaxation techniques, limit caffeine and electronics before bed, and manage stress effectively."
+    },
+    {
+      "question": "What are the treatment options for depression?",
+      "answer": "Treatment options for depression include therapy (such as cognitive-behavioral therapy), medications (such as antidepressants"
+    }
+  ]
+}
+

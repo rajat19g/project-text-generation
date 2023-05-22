@@ -1,0 +1,243 @@
+05/19/2023 18:56:52 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+min_new_tokens= 200,max_length = 1000
+
+05/19/2023 18:56:52 - INFO - root -  Prompt 
+ Generate 5 questions and their respective answers in the sample format below.
+Question: How can I prevent osteoporosis? (Answer: To prevent osteoporosis, it's important to consume a diet rich in calcium and vitamin D, engage in weight-bearing exercises, avoid smoking and excessive alcohol consumption, and consider medications if necessary.)
+Question:
+05/19/2023 18:57:19 - INFO - root -  How can I treat osteoporosis, it'll be treated? Question: Which drug should I use for osteoporosis patients (with or without fracture)? Question: what is the optimum duration of therapy? Question: Which drug should I use for patients with glucocorticoid-induced osteoporosis? Question: Which drug has more appropriate dosing? Question: Which side effects occur more frequently with osteoporosis drugs? Question: Which drug has more side effect without osteoporosis drug use? Question: How should I treat osteoporosis once osteoporosis is manifested? Question: How to manage osteoporosis after a menopause? Question: Will osteoporosis be managed without glucocorticoid therapy? Question: How to treat osteoporosis in patients with glucocorticoid-induced hypertension? Question: What is the importance and frequency of screening for osteoporosis after taking glucocorticoids? Questions: Is it useful for identifying osteoporosis in people who have received immunosuppressive therapy? Question: Should bone mass density be measured in healthy older women with weight loss? Question: Is it necessary to treat and reevaluate osteoporosis in older patients treated with glucocorticoids?
+05/19/2023 18:57:19 - INFO - root -  How can I prevent corticosteroid-induced osteoporosis? (Answer: To prevent corticosteroid-induced asthma) Question: How can I prevent bone loss during childhood and adolescence? (The answer: How might I reduce bone mass during childhood and adolescence?) A self-administered short questionnaire was sent to a sample of physicians to answer this question. (Video Abstract, Supplemental Digital Content 1, http: / / links.lww.com / JNPT / A123). (Arch Ophthalmol Visual Media 28: 1013-1021, 2017). (Arch Ophthalmol Visual Media 28: 1022-1025, 2017). [Abstract, Arch Ophthalmology 47, 941]. (Video Abstract, Supplemental Digital Content 1, http: / / links.lww.com / JNPT / A150). (Arch Ophthalmol Visual Media 28: 1026-1029, 2017). (Arch Ophthalmol Visual Media 28: 1030-1040, 2017).
+05/19/2023 18:57:19 - INFO - root -  How should I measure bone mineral density (BMD) and treat osteoporosis? (Answer: To prevent osteoporosis, it's important to consider lifestyle changes, exercise, weight-bearing exercise, reduce alcohol consumption, and consider medications, and treat osteoporosis if necessary) Question: How should we define osteoporosis and how does it affect the patient's life? (Answer: To prevent osteoporosis, it's important to consider medication use) Question: How does osteoporosis affect the patient's life and the patient's ability to carry a certain amount of weight? (Answer: to prevent osteoporosis) Question: How does osteoporosis affect the patient's ability to carry a certain amount of weight? (Answer: How do the patient perceive osteoporosis and osteoporosis management treatment? (Answer: To avoid osteoporosis, it's less cost than other competing indications). (ABSTRACT TRUNCATED AT 250 WORDS) Session 3: How can we identify osteopenia and osteoporosis in the long-term? (ABSTRACT TRUNCATED AT 250 WORDS)
+
+05/20/2023 20:33:42 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/20/2023 20:33:42 - INFO - root -  Prompt 
+ Generate 5 questions and their respective answers in the sample format below.
+Question: What are the symptoms of a urinary tract infection (UTI)? (Answer: Symptoms of a UTI may include a frequent urge to urinate, a burning sensation during urination, cloudy or strong-smelling urine, and pelvic pain. It's important to see a doctor for proper diagnosis and treatment.)
+Question:
+05/20/2023 20:33:42 - INFO - root - Settings ---- penalty_alpha 0.6
+05/20/2023 20:34:14 - INFO - root -  Are the symptoms of a UTI associated with lower urinary tract symptoms? (Answer: Symptoms of a UTI may be associated with daytime and nighttime voiding frequency, urgency, nocturia, and urgency incontinence) Question: Is the symptoms of a UTI associated with an enlarged bladder? (Question: Does a UTI cause constipation) It's important to note that lower urinary tract symptoms may be caused by other factors such as dysuria, dysuria with dysuria, urgency incontinence, constipation, and bladder outlet obstruction. • Are the symptoms of a UTI associated with LUTS? Question: Is the symptom of a UTI associated with a high-grade prostate cancer? Question: What medications are associated with UTIs? Question: What are preventive measures and treatment options? Question: what are the potential side effects of the medications? Question: Are the medications associated with other comorbidities? Question: What is the treatment options for UTIs? Question: What are the limitations of the medications given to treat UTIs?
+05/20/2023 20:34:14 - INFO - root -  Are there factors other than symptoms that increase the risk to the patient of contracting urinary tract infection or its complications? Question: Are there any changes in antibiotic prescribing in the acute period of acute uncomplicated cystitis? Question: Is there any benefit from treating uncomplicated urinary tract infection? Question: Which are the main indications for hospitalization of women with UTI? Question: What are the local trends, patterns, and guidelines for the treatment of cystitis? Question: What are the recommendations for an algorithm of the treatment of uncomplicated acute cystitis? Question: What are the benefits of managing complicated cystitis by the use of antibiotics in the acute period? Question: What are the benefits from retraining women with acute cystitis for the self-care of their urinary tract infections, and the role of an expert panel? Question: How can we ensure patients are not exposed to the risk of long-term complications? Question: What are the costs to the healthcare system of managing UTIs? Question: How can we educate family physicians about UTIs in order to prevent the spread of UTI?
+05/20/2023 20:34:14 - INFO - root -  What is the likelihood of a lower urinary tract infection in a woman with symptoms of a UTI? (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED AT 250 WORDS). (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED AT 250 WORDS) (CASTEP REVIEWERS: These guidelines are for the first time in the literature to combine the best available data concerning management of urinary incontinence, but are also intended for the general clinician to serve as a working guide in understanding the etiology, complications, and management of urinary incontinence. (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED AT 400 WORDS) (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED AT 400 WORDS) (ABSTRACT TRUNCATED AT 400 WORDS) (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT TRUNCATED) (ABSTRACT TRUNCATED AT 250 WORDS) (ABSTRACT) (COSTAIN ENROLLMENT) URINARY SURGERY: The purpose of this report is to review the clinical epidemiology of urinary incontinence and related disorders, the definition, pathophysiology, diagnosis, and management of urinary incontinence, as well as provide a discussion of the economic implications of this problem as well as future directions in this area of clinical research.
+05/20/2023 20:39:05 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/20/2023 20:39:05 - INFO - root -  Prompt 
+ Generate 5 questions and their respective answers in the sample format below.
+Question: What are the symptoms of a urinary tract infection (UTI)? (Answer: Symptoms of a UTI may include a frequent urge to urinate, a burning sensation during urination, cloudy or strong-smelling urine, and pelvic pain. It's important to see a doctor for proper diagnosis and treatment.)
+Question: How can I prevent osteoporosis? (Answer: To prevent osteoporosis, it's important to consume a diet rich in calcium and vitamin D, engage in weight-bearing exercises, avoid smoking and excessive alcohol consumption, and consider medications if necessary.)
+Question:
+05/20/2023 20:39:05 - INFO - root - Settings ---- penalty_alpha 0.6
+05/20/2023 20:39:38 - INFO - root -  How can I treat asymptomatic bacteriuria? (Figure 1A-D) Question: How should I test for Chlamydia? (B) If a urinary tract infection (UTI) is suspected, does it raise suspicion of chlamydial infection of the urethra? (CA) Question: What are other potential causes of UTI, particularly sexually transmitted infections? (A) Question: How can urine cultures help reduce the false negative rates for chlamydia that are often seen without urethral samples. (B) Question: Should we look for other causes of UTI, and if so, what tests are best to use, which should be ordered? (H) Question: How should we interpret abnormal urine culture results? (C) Question: What patients should avoid antibiotics in the course of UTI? (D) Question: How can we use the information from the urine culture results to guide management decisions? (E) Question: How can we assess for and prevent antibiotic resistance? (F) Questions: In the event symptoms and physical exam findings support a diagnosis of UTI, do you ask about sexual activity? (J: In order to diagnose UTI, you are asked to answer six questions: What is your current or past history of bladder outlet obstruction / urethritis, what changes do you have around this UTI?
+05/20/2023 20:39:38 - INFO - root -  How can I prevent UTI in a high-risk patient that does not require antibiotic treatment? (Answer: To prevent UTI, it's important to administer a daily regimen of nitrofurantoin or an antibiotic treatment in patients with diabetes. (ABSTRACT TRUNCATED AT 250 WORDS) The diagnosis and treatment of urinary tract infection (UTI) is both important and feasible, if these conditions are to coexist, it must be in keeping with the patient's medical needs. (ABSTRACT TRUNCATED AT 400 WORDS) References: 1. (ABSTRACT TRUNCATED AT 250 WORDS) Am. J. / U.]. (ABSTRACT TRUNCATED AT 250 WORDS) References: 1. (ABSTRACT TRUNCATED AT 250 WORDS) J. / U.). (ABSTRACT TRUNCATED AT 250 WORDS) References: 1. (ABSTRACT TRUNCATED AT 400 WORDS) References: 1--Urinary tract infection1. (ABSTRACT TRUNCATED AT 250 WORDS) References: urinary tract infection2. (ABSTRACT TRUNCATED AT 250 WORDS) References: urinary tract infection3. (ABSTRACT TRUNCATED AT 250 WORDS) SymposiumABSTRACT TRUNCATED AT 400 WORDS)
+05/20/2023 20:39:38 - INFO - root -  How should I treat elderly men who have urinary tract infection? (Response: To avoid bone density studies, avoid NSAIDs, use a beta blocker, and add a thiazide diuretic...) Question: How should I treat acute cystitis, and treat those who exhibit signs and symptoms for UTIs that do not resolve with antimicrobials? (Response: Do you need to be started empirically with an antibiotic until you are properly diagnosed) Question: Do you use a beta blocker, NSAIDs, and a diuretic? (Answer: Do you use a beta blocker, NSAIDs, and a thiazide diuretic?) Question: How should we use antihypertensives? (Response: Are they using antihypertensive agents at high risk for vascular risk? (Answer: Do you use antihypertensive agents at high risk for vascular complications of atherosclerosis and heart failure?) Question: Are they being treated with antihypertensive agents? (Answer: Is there a low risk of cardiovascular morbidity and mortality if treated)? Or take a dose of angiotensin receptor blockers or calcium channel blockers? (Response: Is there an association between a low glomerular filtration rate and cardiovascular risk?
+05/21/2023 20:50:36 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 20:50:36 - INFO - root -  Prompt 
+ Generate 5 question and answer pairs in the sample format below.
+Question: How can I manage stress and anxiety? (Answer: Managing stress and anxiety involves maintaining a healthy lifestyle, practicing relaxation techniques, seeking support from loved ones, and, if necessary, consulting a mental health professional.)
+Question: How can I lower my cholesterol levels? (Answer: To lower cholesterol levels, it's important to eat a healthy diet low in saturated and trans fats, engage in regular physical activity, maintain a healthy weight, and follow any prescribed medications.)
+Question:
+05/21/2023 20:50:36 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 20:51:07 - INFO - root -  How can I manage depression and anxiety? (Answer: To help manage depression and anxiety, it's important to stay engaged with and counsel patients on how to respond to their symptoms, what medications work best for depression and anxiety, and what can be done to help patients manage these symptoms) Question: How can I avoid prescribing drugs that may cause undesirable effects in patients with depression and anxiety (see pages 55 to 58 in this issue) Question: How can we best manage anxiety in patients with primary anxiety disorders, panic disorder and social anxiety disorder as well as patients taking antidepressants which are not recommended to treat anxiety without assessing whether they have co-existing anxiety disorders and the potential for anxiety symptoms to cause significant distress, if not appropriately treated? (Fed: Anxiety Research.) A number of other questions that remain important for psychiatrists are: Are anxiety disorders worse among immigrants or refugees? (Fed: Anxiety Research.) How to treat anxiety symptoms in patients with comorbid medical illnesses?
+05/21/2023 20:51:07 - INFO - root -  How can I manage depression and anxiety, it should be that patient with any level of depression or anxiety be at risk for suicide and other adverse health risks? (Answer: The management of depression and anxiety includes identifying the potential causes of depression and anxiety, assessing for the presence of suicidal ideation and suicide risk, evaluating for associated risk factors, and considering psychosocial support before, during, and after using treatments for depression and anxiety. (ABSTRACT TRUNCATED AT 250 WORDS) KEY WORDS: Depression and anxiety, anxiety, heart disease, panic disorder, management, physician-patient relationships. (ABSTRACT TRUNCATED AT 400 WORDS) IMPLICATIONS FOR NURSING PRACTICE: A health care practitioner and other health care provider are most likely to encounter a patient with a chronic emotional illness with a serious course of recurrent disease. (ABSTRACT TRUNCATED AT 250 WORDS) IMPLICATIONS FOR NURSING RESEARCH: What is the role nurse and other health care providers can play in managing depression and anxiety in cancer patients; how does it affect health risk behaviors such as smoking, physical activity, diet, stress, and physical fitness? (ABSTRACT TRUNCATED AT 400 WORDS)
+05/21/2023 20:51:07 - INFO - root -  How should I approach the patient who presents with an anxiety disorder? (Answer: To lower cholesterol levels, I have a regular physical activity, eat a healthy diet low in saturated and trans fats, have a healthy weight, and avoid any prescribed medications) Question: How can I manage stress and anxiety in individuals who present with an anxiety disorder? (Answer: To lower cholesterol levels, be healthy, practice relaxation techniques, seek mental health professional, and consult a mental health professional) Question: Do my health behaviors, mental health professionals, and other health care providers be the same when managing stress and anxiety? (Answer: Are they the same when managing stress?) Question: What should I do when managing stress and anxiety? (Answer: Are my health behaviors, mental health professionals, and other health care providers be the same when managing stress and anxiety?) Question: How can I manage stress and anxiety in patients who present with an anxiety disorder? (Question: What can I do when managing stress and anxiety in individuals who present with an anxiety disorder?) Question: How can I prevent developing future anxiety disorders in patients who present with an anxiety disorder?
+05/21/2023 22:20:07 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 22:20:07 - INFO - root -  Prompt 
+ Generate similar question and answer pairs in the sample format below.
+Example : 
+Question: What are the early signs of diabetes? (Answer: Early signs of diabetes may include frequent urination, excessive thirst, unexplained weight loss, fatigue, and blurred vision. It's important to see a doctor for proper diagnosis.)
+Question:
+05/21/2023 22:20:07 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 22:20:38 - INFO - root -  What were the initial symptoms and whether there were any signs of diabetes in patients? (Figures 1-3) (Fig.: Early signs may include frequent urination, excessive thirst, unexplained weight loss, fatigue, blurred vision, pain, numbness, or tingling) Question: What were the associated symptoms and signs at first visit? (Figure: Early signs may include headache, joint pain, back pain, dizziness, vertigo, joint stiffness, weight loss, abdominal pain, constipation, nausea, dizziness, diarrhea, and sweating) Question: Answer: Why should some patients see a doctor first and what were the consequences? (Figure: Question: What are the early symptoms and signs?) Question: How to measure and correct for these signs when the diagnosis of diabetes is in doubt. (Fact: Question: What is the early signs and signs?). (ABSTRACT TRUNCATED AT 400 WORDS) Implications of the symptoms and signs seen during a patient encounter are presented and the causes for these signs and symptoms are discussed.
+05/21/2023 22:20:38 - INFO - root -  Are you taking drugs to treat her high cholesterol? It's important to see a doctor for proper diagnosis and treatment of diabetes? It's important to see a doctor for proper diagnosis and treatment of hypertension. (Fig.: 1) Conclusion: The number of questions asked annually have changed little over the past two decades. (Tables 1 and 2) There is very little new evidence to guide physicians using the number of questions asked. (3-5) In this article, we discuss an algorithm for the determination of diabetes diagnosis; the criteria for hypertension and dyslipidemia treatment; the importance of monitoring glucose, hypertension, and dyslipidemia; and the need to consider how other comorbidities impact and complicate diabetes management. (6-8) This algorithm illustrates what diabetes-specific therapies are indicated, when to treat with insulin, use of oral diabetes therapy, and the effects of comorbidities on diabetes treatment. (9-9) Diabetes can be safely and effectively treated by using insulin to treat hypertension; therefore, it is important to monitor glucose, lipids, and blood pressure.
+05/21/2023 22:20:38 - INFO - root -  What should the physician do to lower blood glucose in the very young? (Question: What should diabetes be considered?) And (Question: Will more expensive treatment be life saving?). (Figure)., and (Question: What are the most common causes of a diabetic foot?).Diabetes has been known in the history of mankind for much of his kind; indeed, many people now enjoy one of the oldest and most common ailments in the world. (1) In addition to being the most common cause of death in the world today, the majority of people who have diabetes will eventually become dependent on insulin therapy over the next decade. (ABSTRACT TRUNCATED AT 400 WORDS). (ABSTRACT TRUNCATED AT 250 WORDS).) The diabetic foot is a common affliction, but it is often misdiagnosed and may present as a chronic problem that requires referral to a diabetes physician for proper diagnosis and treatment. (ABSTRACT TRUNCATED AT 400 WORDS) The American Academy of Orthopedic Surgeons has recently published a comprehensive clinical guideline for the prevention and treatment of diabetic foot problems, which includes the following: (1) Risk factors should be examined, including history and physical examination, in all diabetic patients.
+05/21/2023 22:23:41 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 22:23:41 - INFO - root -  Prompt 
+ Generate similar question and answer pairs in the sample format below.
+Example : 
+Question: How can I improve my sleep quality?
+(Answer: To improve sleep quality, establish a consistent sleep schedule, create a comfortable sleep environment, practice relaxation techniques, limit caffeine and electronics before bed, and manage stress effectively.)
+Question:
+05/21/2023 22:23:41 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 22:24:09 - INFO - root -  How can I improve my sleep quality by using a systematic improvement program? "These strategies are illustrated by means of a sleep diary and then used as part of the implementation efforts by a sleep clinic, where the sleep complaint was successfully improved. (Figure 5) Question: How can I improve my sleep quality by using a systematic improvement program?" These strategies will be shown in the accompanying article by the Sleep Management Focus Group. (Video Abstract). (Figure 5a). (Figure 5b). (Figure 6a) Question: How does your sleep quality improve as a result of taking an effective sleep medication? Sleep deprivation and the need for sleep-promoting medications: Implications of a systematic approach in the management of insomnia. (Fig.) Question: How does your sleep quality become better than before? Sleep medication is ineffective in relieving sleep symptoms without improving sleep architecture and quality? Sleep medication does not alter sleep architecture, and sleep medication does not increase sleepiness - and is it sufficient for alleviating sleep disorders? Sleep and physical activity should ideally be planned as a series of independent variables to improve your own sleep.
+05/21/2023 22:24:09 - INFO - root -  How can I improve my sleep quality, establish a consistent sleep schedule, establish a comfortable sleep environment, practice relaxation techniques, limit caffeine and electronics before bed, and manage stress effectively? The final section describes potential barriers to developing sleep interventions in this population and outlines several specific steps that can be taken to help reduce these barriers. [Formula: see text]. (ABSTRACT TRUNCATED AT 250 WORDS) "Sleep" is a ubiquitous, human behavior. II.] In this article the authors discuss an approach to enhancing sleep in children and adolescents with special considerations including (Part X) the importance of good sleep hygiene, suggestions for sleep evaluation, and interventions in the community health setting. and highlight the barriers to research studies. "The authors encourage sleep educators, students, and practitioners to become actively involved in developing sleep interventions so that they are actively involved in the design and development of interventions and to understand the efficacy and efficacy of them in improving sleep and / or preventing sleep problems. (ABSTRACT TRUNCATED AT 250 WORDS)
+05/21/2023 22:24:09 - INFO - root -  How should I measure your sleep? (Comment: Sleep hygiene issues are not a burden to your sleep, but instead a responsibility for your children) Question: What other issues might interfere with your sleep once you have been informed and treated for your sleep disorder? (Answer: Sleep is a duty for you; it is not in the best interests of my child; it is not sufficient; it is not necessary to get one night of sleep; it is for you to feel like your mother sleeps; it is a duty for you to get one night of sleep; it is a duty for your mother to get sleep; it promotes recovery from your sleep disorders) Question: How can you decrease your frustration when it comes to getting into trouble with your sleep? (Answer: The patient's fatigue and the sleep debt that he or she experiences could be mitigated through the use of sleep restorative techniques and the application of some relaxation strategies such as meditation, yoga, and tai chi) Question: How can we prevent and help patients' sleeping problems from worsening?
+05/21/2023 22:48:29 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 22:48:29 - INFO - root -  Prompt 
+ Question: What are the early signs of diabetes? (Answer: Early signs of diabetes may include frequent urination, excessive thirst, unexplained weight loss, fatigue, and blurred vision. It's important to see a doctor for proper diagnosis.) An example question and answer pair
+
+05/21/2023 22:48:30 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 22:48:57 - INFO - root -  are given in this paper to aid the general internist / generalist in recognizing the sign of diabetes. "(4) I would then focus on the diagnosis and treatment of diabetes." (p.) It may not be the most severe form of diabetes but its complications which are especially devastating. (2) In diabetic patients, as with many acute medical problems, glucose control is crucial to reduce the morbidity and mortality associated with diabetes. [...]. "(4.) (5.) In the elderly, in order to lower the risk of complications associated with diabetes, patients have to be taken to a doctor as soon as possible. (2.) (6.). (7.). The most dramatic form of diabetes is in the form of Type II (non-insulin-dependent) which is characterized by high levels of insulin, beta-cells dysfunction, and insulin resistance. (4.) (9.) (10.) (11.) (12.) Diabetes is an autoimmune process which leads to loss of function of beta cells with subsequent hyperglycemia.
+05/21/2023 22:48:57 - INFO - root -  were given to a 48-year-old female to answer the question: What is the early sign of diabetes? (Answer: Diabetes can start within a few weeks or months of onset of symptoms at some common sites such as the skin and eyes). "This question can help clinicians and patients understand diabetes more effectively and is also important to clinicians, especially for primary care providers who are already educated on the importance of diagnosing and treating the diabetic patient." (JAMA. 2014; 284: 2485-2485). ¿(Am J Diabetes 2015; 34: 2630-2645). ¿. [this corrects the article DOI: 10.2196 / 1492.]. ¿.]. [This retracts the article DOI: 10.2196 / 1492.]. 'Please note that the response is a complete, up to date account and a critique of the article The Diabetes Prevention Trial. (J Am Diabetes 2015; 34: 2630-2644.).
+05/21/2023 22:48:57 - INFO - root -  is presented in this study. (Figure 1).) However, we must keep in mind the fact that diabetes may have a wide spectrum of manifestations that can be confused with other conditions. (ABSTRACT TRUNCATED AT 400 WORDS) However, since diabetes is a life-threatening disorder, early diagnosis and proper treatment may decrease associated morbidity and mortality. in the long term. (ABSTRACT TRUNCATED AT 250 WORDS) KEY WORDS; Diabetes, Urination, Thirst, Fatigue.) Diabetes, Fatigue, Obesity, Fatigue. (ABSTRACT TRUNCATED AT 250 WORDS) KEY WORDS; Diabetic urgency, Diabetes, Diabetes, Urination, Fatigue.). (ABSTRACT TRUNCATED AT 400 WORDS) Beta-cell function, beta-cell reserve, Beta-cell exhaustion, Glucagon secretion, Diabetes mellitus, Fatigue, Excessive thirst., Exercise. (ABSTRACT TRUNCATED AT 250 WORDS) KEY WORDS; Exercise, Obesity, Exercise tolerance, Exercise diabetes, Weight reduction, Exercise, Diabetes.) Insulin secretion, beta-cell reserve, Beta-cell exhaustion, Beta-cell exhaustion.
+05/21/2023 22:50:18 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 22:50:18 - INFO - root -  Prompt 
+ Question: What are the symptoms of the common cold? (Answer: Common cold symptoms include a runny or stuffy nose, sneezing, sore throat, cough, and mild body aches.) An example question and answer pair
+
+05/21/2023 22:50:18 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 22:50:47 - INFO - root -  are given in this paper to aid the general radiologist in diagnosis of this entity. (J Oral Radiol 2017; 43: 849-857). (Tables 1 and 2, Figs. 1 and 2, Figs. 5 and 6, Table 2, Fig. 1, and Tables 3-7 are provided to describe the symptoms and radiographic findings of acute common colds. (J Oral Radiol 2017; 43: 849-857). (Tables 2, 4-6.) (Tables 6 and 7). (Tables 8 and 9 are included to provide information regarding the course of the common cold and radiographic findings and the significance of the findings. (J Oral Radiol 2017; 43: 849-850).. (Tables 8 and 9.). (ABSTRACT TRUNCATED AT 250 WORDS) KEY POINTS: Acute infections of the ears, nose, and throat are common and may occur with or without respiratory symptoms. (J Oral Radiol 2017; 43: 849-857) (Tables 2-6, Figs. 1-6, Figs. 7-8, Figs.
+05/21/2023 22:50:47 - INFO - root -  were constructed based on relevant symptoms. (ABSTRACT TRUNCATED AT 250 WORDS) Laryngoscopy has become an essential component in the diagnosis and treatment of the common cold. A patient with vague complaints of the common cold should be referred to a physician. (ABSTRACT TRUNCATED AT 250 WORDS) Adenovirus is the infectious agent most commonly associated with the common cold. (ABSTRACT TRUNCATED AT 250 WORDS) Adenovirusassociated rhinitis is a syndrome characterized by nasal congestion associated with a cold that lasts more than 72 hours. (ABSTRACT TRUNCATED AT 250 WORDS) Adenovirus infections during winter have the potential to cause serious complications, such as severe asthma. (ABSTRACT TRUNCATED AT 250 WORDS) Virus and other agents that attack the bronchi, such as influenza and respiratory syncytial virus, can have similar effects as the common cold. (ABSTRACT TRUNCATED AT 250 WORDS) The classic symptoms of the common cold, such as runny and stuffy nose, sneezing, and cough, are seen in only a small percentage of infected patients.
+05/21/2023 22:50:47 - INFO - root -  is included in this reference guideline. Results: This article provides the rationale for reviewing symptom burden of the illness, as well as a practical approach to assessing for common cold symptoms. An important component of clinical diagnosis of the acute phase, and as such the review of symptomatology, for common illnesses of the upper respiratory tract provides an opportunity to review the etiology of these conditions. (ABSTRACT TRUNCATED AT 400 WORDS) KEY POINTS; ABSTRACT: Common colds are the most common viral infections for Americans and the leading cause of hospitalization for infectious mononucleosis. (ABSTRACT TRUNCATED AT 400 WORDS) See how to help you identify the illness in your patients and to provide the most appropriate care. (ABSTRACT TRUNCATED AT 400 WORDS). (ABSTRACT TRUNCATED AT 250 WORDS) Published by Dr Benjamin G.) A. (ABSTRACT TRUNCATED AT 250 WORDS) IMPLICATIONS: The review of symptom frequency for common cold illness and their etiology offers the practitioner the opportunity to better understand the natural history of illness and better guide therapy, allowing for improved and more effective patient care in patients with these conditions
+05/21/2023 22:55:50 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 22:55:50 - INFO - root -  Prompt 
+ Generate similar question and answer pairs in the sample format below.
+Example : 
+Question: How can I prevent the flu? (Answer: The best way to prevent the flu is to get an annual flu vaccine, practice good hand hygiene, avoid close contact with sick individuals, and maintain a healthy lifestyle.)
+Question:
+05/21/2023 22:55:50 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 22:56:20 - INFO - root -  How can I prevent the flu? (Figure 1A-D) Practice Goals: Using a standardized approach to promote behavior change would result in the best way to prevent the flu. (2, 3) Education: A wide variety of materials, advice, and methods are required. (4) Intervention: The following methods are recommended as components of a multifaceted intervention to change influenza vaccination attitudes: (1) providing an educational tool that has been translated into a new context to include in patient care; (2) providing resources to help patients and families and to educate caregivers as to the importance of influenza vaccination; and (3) providing information to guide healthcare providers to include the topic of influenza in a comprehensive educational plan. (2) Support: To provide information to healthcare providers regarding the benefits of influenza vaccination to reduce potential complications from the flu. (5) Recommendations: Use a written or other form of "flu immunization." For immunization in healthy older adults, it is encouraged that healthcare providers focus on the risks involved and use simple strategies to address the risks.
+05/21/2023 22:56:20 - INFO - root -  How can I prevent the flu? (Answer: Best way to prevent the flu is to get an annual flu vaccine, practice good hand hygiene, avoid close contact with sick individuals, and maintain a healthy lifestyle) Question: How can I prevent the flu? (Answer: Best way to prevent the flu is to prevent the flu, practice good hand hygiene, avoid close contact with sick individuals, and maintain a healthy lifestyle) Question: How can you prevent the flu? (Answer: Best way to prevent the flu is to get an annual flu vaccine, practice good hand hygiene, avoid close contact with sick individuals, and maintain a happy and motivated lifestyle) Question: How can you prevent the flu? (Answer: Best way to prevent the flu is to use a daily influenza vaccine, practice good hand hygiene, avoid close contact with sick individuals, and maintain a healthy lifestyle) The survey revealed a very high level of satisfaction with the current influenza vaccination policy.
+05/21/2023 22:56:20 - INFO - root -  How should I prevent the flu? (Comment: "You could not prevent the flu by preventing the flu?") (Espetale, 2003, page 41). (§.: 'Fit, and should I avoid the flu', ": Espetale, 2003, page 11). 'Question: How should I prevent the flu'," Espetale, 2003, page 41. "Response:" Is you should prevent the flu by preventing the flu? "(Comment: Espetale, 2003, page 39). 'Question: How did I prevent the flu? (§:' Fit, and should I avoid the flu '," Espetale, 2003, page 18). "(§:' Fit, and should I avoid the flu ',' Espetale, 2003, page 11). (§: 'Was I prevent the flu?', page 4.: page 45) Question: How did I prevent the flu? (§: 'You could not prevent the flu because you prevent the flu', 'Espetale, 2003, page 42).
+05/21/2023 23:23:44 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 23:23:44 - INFO - root -  Prompt 
+ Generate more Questions like below.
+Example : 
+Question: How can I lower my cholesterol levels?
+Question:
+05/21/2023 23:23:44 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 23:23:49 - INFO - root - [' How can I lower my cholesterol levels? ', ': How can I help my cholesterol levels? ', ': How can I lower my cholesterol levels? How can my cholesterol levels should be lowered?']
+05/21/2023 23:23:49 - INFO - root - [' How can I lower my cholesterol levels? ', ': How can I lower my cholesterol levels? ', ': How can my cholesterol levels be lowered? ', ': How can I lead my cholesterol levels?']
+05/21/2023 23:23:49 - INFO - root - [' How should I approach my LDL-C levels in the clinic? How could I approach his cholesterol levels in research studies? ', ': How to avoid confounding evidence?']
+05/21/2023 23:25:49 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 23:25:49 - INFO - root -  Prompt 
+ Generate more Questions like below.
+Example : 
+Question: What are the symptoms of the common cold?
+Question:
+05/21/2023 23:25:49 - INFO - root - Settings ---- penalty_alpha 0.6
+05/21/2023 23:25:56 - INFO - root - [' What are the signs of the common cold? ', ': Are the signs of the common cold distinct from other conditions? ', ': Are the signs of the common cold distinct from other conditions? ', ': What are the signs of the common cold different from other conditions?']
+05/21/2023 23:25:56 - INFO - root - [' Which symptoms are associated with the common cold? ', ': Which patients are likely to be infected with the common cold? ', ': Which infections are associated with the common cold? ', ': Which symptoms in common cold do adults report? ', ': Which symptoms are best to identify common cold infections?']
+05/21/2023 23:25:56 - INFO - root - [' What are the common cold symptoms? ', ': How are common colds caused by viruses? ', 's: How common are the common cold symptoms? ', ': What are the common cold symptoms? ', ': What are the common cold symptoms? ', ': What are the cold symptoms?']
+05/21/2023 23:25:56 - INFO - root - [' Does the timing of symptom onset affect the accuracy of diagnosis? ', ': How are the symptoms of acute viral respiratory infections different? ', ': How are the symptoms of the common cold different? ', ': What are the symptoms of the common cold?']
+05/21/2023 23:25:56 - INFO - root - [' What are the symptoms of the common cold? ', ': What are the signs and symptoms of the common cold? ', ': What are the signs and symptoms of the common cold? ', ': What do these symptoms and signs have any implications for practice?']
+05/21/2023 23:27:53 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 23:27:53 - INFO - root -  Prompt 
+ Generate more Questions like below.
+Example : 
+Question: What are the best ways to quit smoking?
+Question:
+05/21/2023 23:27:53 - INFO - root - Settings ---- min_new_tokens= 50,max_length = 200
+05/21/2023 23:28:02 - INFO - root - [' What options do physicians and patients perceive are best? Evidence from the OPTIMAL Study. II. Primary care smokers. The OPTIMAL Intervention and Tobacco Outcomes (OPTIMAL) Research Group. Data Collection Group. OPTIMAL Investigators.']
+05/21/2023 23:28:02 - INFO - root - [' Which kind of patient-physician relationship makes patient-centered consultations better? ', ': What kinds of patients help to reduce tobacco use? ', ': A qualitative study. (1).-Smokers in addiction and health. (2).].']
+05/21/2023 23:28:02 - INFO - root - [' What factors influence smoking cessation and the role of nicotine replacement pharmacotherapy in smoking cessation? ', ': What is the role of nicotine replacement therapy, in smoking cessation? ', ': What are the appropriate ways to assess smoking cessation in the future? ', ': What are the current state of implementation? ', ': What are the gaps and needed improvement in the current situation?']
+05/21/2023 23:28:02 - INFO - root - [' Does the timing of delivery make a difference? ', ': What are the optimal modes of delivery? ', ': How to assess success? ', ': What have other research and practice implications to consider? What have we learned from real-world evidence?']
+05/21/2023 23:28:02 - INFO - root - [' what are the best ways to support non-quitting smokers? ', ': What are the best approaches to address smoking in the elderly? ', ': What are the best interventions to help older smokers quit? Do these interventions work? ', ': Which interventions work optimally and prevent relapse for long-term quitters?']
+05/21/2023 23:31:17 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 23:31:17 - INFO - root -  Prompt 
+ Generate more Questions like below.
+Example : 
+Question: How can I lower my cholesterol levels?
+Question:
+05/21/2023 23:31:17 - INFO - root - Settings ---- min_new_tokens= 50,max_length = 200,penalty_alpha=0.6, top_k=4
+05/21/2023 23:31:26 - INFO - root -  How do you lower my cholesterol levels? Question: How do you lower your cholesterol levels? Question: How do you lower your cholesterol levels? How do I lower my cholesterol levels? How do you lower my cholesterol levels? Question: How can I lower my cholesterol levels?
+05/21/2023 23:31:26 - INFO - root -  How does your cholesterol level influence your treatment? Question: How to treat your cholesterol? Question: How does your cholesterol level affect your treatment? Question: How can your cholesterol level affect your treatment? Question: How does your cholesterol level affect your treatment?
+05/21/2023 23:31:26 - INFO - root -  How can I lower my cholesterol levels? Question: How can I lower my cholesterol levels? Questions: How can I lower my cholesterol levels? Question: How can my cholesterol levels be lowered? Question: How can my cholesterol levels be lowered?
+05/21/2023 23:31:26 - INFO - root -  How can I lower my cholesterol levels? Question: How can I lower my triglycerides levels? Question: How can I lower my triglycerides levels? Question: How can I lower my cholesterol? Question: How can I lower my triglycerides levels? Question: How can I lower my cholesterol levels? Question: How can I lower my cholesterol levels?
+05/21/2023 23:31:26 - INFO - root -  How can I help you lower my cholesterol? Question: How can I reduce the risk of heart disease? Question: Can I help your cholesterol levels? Question: How can I lower your LDL cholesterol levels? Question: What can I reduce your LDL cholesterol levels? Question: How can I reduce the risk of heart disease?
+05/21/2023 23:32:55 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/21/2023 23:32:55 - INFO - root -  Prompt 
+ Generate more Questions like below.
+Example : 
+Question: What causes high blood pressure?
+Question:
+05/21/2023 23:32:55 - INFO - root - Settings ---- min_new_tokens= 50,max_length = 200,penalty_alpha=0.6, top_k=4
+05/21/2023 23:33:04 - INFO - root -  What should be avoided? Question: How to avoid or reduce the salt content of table salt? Question: What advice: advice? What advice? What options? Question: advice? Where to avoid? Question: What are the next steps?
+05/21/2023 23:33:04 - INFO - root -  Hypertension in diabetes mellitus. "Question: What causes high blood pressure? Question: What causes high blood pressure? Response: Question: High blood pressure. The effects and cost of blood pressure in diabetes mellitus. The use of blood pressure in diabetes mellitus has been discussed.
+05/21/2023 23:33:04 - INFO - root -  What factors determines high blood pressure? Question: what factors predicts high blood pressure? Question: What strategies does a review of the literature make? Question: How many questions are high? What questions does research support? How much information is needed to answer?
+05/21/2023 23:33:04 - INFO - root -  Blood pressure in children. (II). The importance of blood pressure values for calculating body mass index: Report on blood pressure values in adolescents: report from the French national survey. "Report d'étude d'étude 'de la healthy nutrition d'obstétricitérapie / Report d'overweight dans le study
+05/21/2023 23:33:04 - INFO - root -  what are the risks? Example: What can we do? Example: What should we do? The risk has to go unnoticed? Example: What can we do? Suggestion: What do we do? Conclusions: What can we do?
