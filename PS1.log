@@ -241,3 +241,36 @@ Question:
 05/21/2023 23:33:04 - INFO - root -  What factors determines high blood pressure? Question: what factors predicts high blood pressure? Question: What strategies does a review of the literature make? Question: How many questions are high? What questions does research support? How much information is needed to answer?
 05/21/2023 23:33:04 - INFO - root -  Blood pressure in children. (II). The importance of blood pressure values for calculating body mass index: Report on blood pressure values in adolescents: report from the French national survey. "Report d'étude d'étude 'de la healthy nutrition d'obstétricitérapie / Report d'overweight dans le study
 05/21/2023 23:33:04 - INFO - root -  what are the risks? Example: What can we do? Example: What should we do? The risk has to go unnoticed? Example: What can we do? Suggestion: What do we do? Conclusions: What can we do?
+05/22/2023 12:45:43 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/22/2023 12:45:43 - INFO - root -  Prompt 
+ Generate more Questions like below.
+Example : 
+Question: What are the symptoms of the common cold?
+Question:
+05/22/2023 12:45:43 - INFO - root - Settings ---- min_new_tokens= 50,max_length = 200
+05/22/2023 12:46:09 - INFO - root - GenerationConfig {
+  "_from_model_config": true,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "pad_token_id": 1,
+  "transformers_version": "4.29.2"
+}
+
+05/22/2023 12:46:09 - INFO - root -  Prompt 
+ Generate more Questions like below.
+Example : 
+Question: How can I improve my sleep quality?
+Question:
+05/22/2023 12:46:09 - INFO - root - Settings ---- min_new_tokens= 50,max_length = 200
+05/22/2023 12:46:27 - INFO - root -  How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality?
+05/22/2023 12:46:27 - INFO - root -  How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality?
+05/22/2023 12:46:27 - INFO - root -  How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality?
+05/22/2023 12:46:27 - INFO - root -  How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality?
+05/22/2023 12:46:27 - INFO - root -  How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality? Question: How can I improve my sleep quality?

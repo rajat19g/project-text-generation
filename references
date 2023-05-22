@@ -1,0 +1,8 @@
+
+install pip virtual env -> python3 -m venv env
+Activate virtual env -> source env/bin/activate
+
+pytorch installation -- https://pytorch.org/
+validate installation - test-installation.py , https://12ft.io/proxy?q=https%3A%2F%2Ftowardsdatascience.com%2Finstalling-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c
+
+Finetuning a pretrained model - https://huggingface.co/docs/transformers/training

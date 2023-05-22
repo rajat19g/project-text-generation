@@ -13,6 +13,7 @@
 
 
 #Objective - This py file is the first version of data augmentation/text generation without further postprocessing of the output
+# BioGPT model is baded on GPT-2 medium
 
 import argparse
 import logging
