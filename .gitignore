@@ -2,3 +2,5 @@
 .DS_Store
 .gitignore
 datasets
+P2.0-model
+__pycache__

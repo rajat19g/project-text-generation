@@ -66,6 +66,7 @@ training_args = TrainingArguments(
     evaluation_strategy="epoch",
     learning_rate=2e-5,
     weight_decay=0.01,
+    use_mps_device=True
 )
 
 
@@ -78,10 +79,11 @@ trainer = Trainer(
 )
 
 trainer.train()
+trainer.save_model('./P2.0-model')
+tokenizer.save_pretrained("./P2.0-model/tokenizer/")
 
 eval_results = trainer.evaluate()
 print(f"Perplexity: {math.exp(eval_results['eval_loss']):.2f}")
-
 
 
 
