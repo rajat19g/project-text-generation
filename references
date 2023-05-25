@@ -6,3 +6,14 @@ pytorch installation -- https://pytorch.org/
 validate installation - test-installation.py , https://12ft.io/proxy?q=https%3A%2F%2Ftowardsdatascience.com%2Finstalling-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c
 
 Finetuning a pretrained model - https://huggingface.co/docs/transformers/training
+
+Docker create image from app - 
+1. create a Dockerfile with the steps to perform
+2. Run "docker build --tag project-text-generation ." on the terminal from inside the folder
+
+Docker create container from the image
+Run "docker run -d -p 80:80 project-text-generation"
+
+############# Setup ML Flow for model tracking
+1. pip install mlflow , Then test the installation by running "mlflow ui"
+
