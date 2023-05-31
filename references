@@ -7,7 +7,7 @@ validate installation - test-installation.py , https://12ft.io/proxy?q=https%3A%
 
 Finetuning a pretrained model - https://huggingface.co/docs/transformers/training
 
-Docker create image from app - 
+Docker create image from app - https://docs.docker.com/language/python/build-images/
 1. create a Dockerfile with the steps to perform
 2. Run "docker build --tag project-text-generation ." on the terminal from inside the folder
 
@@ -16,4 +16,6 @@ Run "docker run -d -p 80:80 project-text-generation"
 
 ############# Setup ML Flow for model tracking
 1. pip install mlflow , Then test the installation by running "mlflow ui"
+
+###Deploy the docker image 
 
